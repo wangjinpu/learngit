@@ -10,3 +10,9 @@ ____________________
 Creating a new branch is quick and simple
 
 one more modified
+
+_______________________
+
+I need debug, so i will stash this branch
+
+_______________________
